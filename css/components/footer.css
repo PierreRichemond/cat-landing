@@ -5,8 +5,8 @@
 
 }
 #footer-container{
-  width: 1000px;
-  padding: 200 0;
+  width: 400px;
+  padding: 0 auto;
   color: white;
   text-align: center;
   text-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
